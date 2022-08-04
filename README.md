@@ -35,15 +35,15 @@ Ride counts by city type is expressed using a box-and-whisker plot and a pie cha
 ### Driver Counts by City Type
 Driver counts by city type is expressed through the number of drivers per city type and the percentage of total drivers by city type. On average, the number of urban drivers is 9x higher than the number of rural drivers and the number of suburban drivers is 4x higher than the number of rural drivers. The data does not show any outliers. The pie chart shows that urban cities have the highest percentage of total drivers with 80.9% of rides, whereas suburban cities have 16.5% total drivers and rural cities have 2.6%
 
-![Fig4]()
-![Fig7]()
+![Fig4](https://github.com/DannyJohnson-Hi/PyBer_Analysis/blob/main/analysis/Fig4.png)
+![Fig7](https://github.com/DannyJohnson-Hi/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 ### Fare Counts by City Type
-Fare counts by city type is expressed through the number of fares per city type, the percentage of total fares by city type and the total weekly fares for each city type. The box-and-whisker plot does not show any outliers; however, it shows that the average fare for rides in rural cities is higher ($36) than those in urban cities ($25) and suburban cities ($31). Ridesharing pricing models are based on supply and demand and when the demand for rides exceeds the supply of cars, the fare price increases. This explains why the average cost of rides in rural cities is higher. The pie chart shows that urban cities have the highest percentage of total fares with 62.7% of rides, whereas suburban cities have 30.5% total fares and rural cities have 6.8%. The multiple-line graph shows total weekly fares for each city type. Overall, urban cities have the highest revenue in comparison to suburban and rural cities. Riders are most concentrated in dense urban areas, so this could explain why the sum of the fares for each week in urban areas is highest. Interestingly, fares proportionally increased across city type in the second half of February. 
+Fare counts by city type is expressed through the number of fares per city type, the percentage of total fares by city type and the total weekly fares for each city type. The box-and-whisker plot does not reflect any outliers. However, it does reflect that the average fare for rides in rural cities is higher ($36) than those in urban cities ($25) and even suburban cities ($31). Ridesharing pricing models are based on supply and demand and when the demand for rides exceeds the supply of cars, the fare price increases. This explains why the average cost of rides in rural cities is higher. The pie chart shows that urban cities have the highest percentage of total fares with 62.7% of rides, whereas suburban cities have 30.5% total fares and rural cities have 6.8%. The multiple-line graph shows total weekly fares for each city type. Overall, urban cities have the highest revenue in comparison to suburban and rural cities. Riders are most concentrated in dense urban areas, so this could explain why the sum of the fares for each week in urban areas is highest. Interestingly, fares proportionally increased across city type in the second half of February. 
 
-![Fig3]()
-![Fig5]()
-![PyBer_Fare_Summary]() 
+![Fig3](https://github.com/DannyJohnson-Hi/PyBer_Analysis/blob/main/analysis/Fig3.png)
+![Fig5](https://github.com/DannyJohnson-Hi/PyBer_Analysis/blob/main/analysis/Fig5.png)
+![PyBer_Fare_Summary](https://github.com/DannyJohnson-Hi/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png) 
 
 ## Summary
 Based on the results, the following recommendations can be made to address disparities found amongst the city types.
