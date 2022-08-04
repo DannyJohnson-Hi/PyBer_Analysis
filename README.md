@@ -49,7 +49,7 @@ Fare counts by city type is expressed through the number of fares per city type,
 Based on the results, the following recommendations can be made to address disparities found amongst the city types.
 1.	The analysis could increase in benefit by having additional data points that run across the year, instead of focusing on just the first third of the year. Additional data could provide insights into yearly trends and can be used to forecast ride, driver and fare counts by city type for the following year.  
 2.	inclduing an analysis on the usage and demographics (e.g. age, gender, race) of the riders could provide further insights on different characteristics of a population. Having this data could prove to be useful in understanding consumer behavior, so that the brand can be appropriately marketed and developed, to target the specific demographic environment.   
-3.	Offering incentives to maintain loyal riders and drivers and attract new ones, will help drive business and strengthen relationships with existing riders and drivers. 
+3.	Offering incentives to maintain loyal riders and drivers. This will help drive business and strengthen relationships with existing riders and drivers. 
 
 
 
