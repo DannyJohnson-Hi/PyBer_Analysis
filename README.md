@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-Each year ridesharing services are growing in popularity and are becoming a common norm amognst society. These types of services benefit not only the riders, but drivers as well, across the world. 
+Each year ridesharing services are growing in popularity and are becoming a common norm amongst society. These types of services benefit not only the riders, but drivers as well, across the world. 
 In order to grasp the market for these services, we must conduct a market analysis. This  helps companies understand consumer behavior and economic trends. PyBer is an example of a ridesharing company and an analysis of their ridesharing data is below. 
 
 ### Purpose
